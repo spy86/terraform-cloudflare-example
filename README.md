@@ -21,4 +21,5 @@ Plan your deploy:
     terraform plan -var "cloudflare_email=some-email@domain.com" -var "cloudflare_token=some-token" -var "cloudflare_domain=some-domain.com"
 
 Deploy:
+
     terraform deploy -var "cloudflare_email=some-email@domain.com" -var "cloudflare_token=some-token" -var "cloudflare_domain=some-domain.com"
