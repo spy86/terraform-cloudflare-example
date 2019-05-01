@@ -1,4 +1,5 @@
 # Description:
+![terraform-cloudflare-example](https://img.shields.io/github/issues/spy86/terraform-cloudflare-example.svg) ![terraform-cloudflare-example](https://img.shields.io/github/forks/spy86/terraform-cloudflare-example.svg) ![terraform-cloudflare-example](https://img.shields.io/github/stars/spy86/terraform-cloudflare-example.svg) ![terraform-cloudflare-example](https://img.shields.io/github/license/spy86/terraform-cloudflare-example.svg) ![terraform-cloudflare-example](https://img.shields.io/twitter/url/https/github.com/spy86/terraform-cloudflare-example.svg?style=social)
 
 Example usage Terraform Cloudflare Provider.
 
